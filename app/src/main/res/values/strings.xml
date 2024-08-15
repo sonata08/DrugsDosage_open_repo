@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="child_dosage">Antipyretic syrups</string>
+    <string name="tabl_weight_dosage">Tablet dosage by weight</string>
+    <string name="tabl_dosage">Number of tablets</string>
+    <string name="app_name">Drug Dose Calculator</string>
+    <string name="susp_dosage">Oral Suspension Dosage</string>
+    <string name="chooseMedicine">Choose medicine</string>
+    <string name="child_weight">Child\'s weight</string>
+    <string name="hint_weight">Weight</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_weight">Enter child\'s weight</string>
+    <string name="single_dose">Single dose</string>
+    <string name="ml">ml</string>
+    <string name="active_ingredient">Active ingredient</string>
+    <string name="max_doses_per_day">Maximum daily dose</string>
+    <string name="hours">hours</string>
+
+    <string name="doses_per_day">Number of doses per day</string>
+    <string name="min_interval_between_doses">The shortest time between doses</string>
+    <string name="info_paracetamol">Caution must be exerted when the weight-based dosing is applied to children weighing over 65 kg (143 lbs) so that daily adult paracetamol dose (4 g/day) is not exceeded.</string>
+    <string name="paracetamol">Paracetamol</string>
+    <string name="info_panadol">"  "</string>
+    <string name="info_efferalgan">" "</string>
+    <string name="info_nurofen_ibufen">" "</string>
+    <string name="info_nurofen_forte">" "</string>
+    <string name="info_ibufen_forte">" "</string>
+    <string name="info_bofen">" "</string>
+    <string name="info_piaron">" "</string>
+    <string name="ibuprofen">Ibuprofen</string>
+
+    <string name="susp_set_child_weight">Weight</string>
+    <string name="mg">mg</string>
+    <string name="kg">kg</string>
+    <string name="mg_kg">mg/kg</string>
+    <string name="days">days</string>
+    <string name="or">or</string>
+    <string name="tablets">tablet(s)</string>
+    <string name="tabl_dosage_available">Available dose</string>
+    <string name="tabl_dosage_doctor">Required dose</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="message_subject">Letter subject</string>
+    <string name="message">Message</string>
+    <string name="send_message">Send message</string>
+    <string name="empty_email">Enter your email</string>
+    <string name="empty_message">Write your message</string>
+    <string name="g">g</string>
+    <string name="wrong_email">Most likely, there is a typo here. Check your email.</string>
+    <string name="email_us">Email us</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
+    <string name="share_app">Share Drug Dose Calculator App</string>
+    <string name="cant_share">"Couldn't find a program to share the app "</string>
+    <string name="cant_send_email">"Couldn't find a program to send email "</string>
+    <string name="contact_message">We would be pleased to receive any feedback on the app.</string>
+
+    <string name="timer">Timer</string>
+    <string name="delete_all">Delete all</string>
+    <string name="delete">Delete time</string>
+    <string name="add_time">Add current time</string>
+    <string name="save_time">"You can save the time of taking a medicine to keep track of the time until the next dose. "</string>
+    <string name="time_diff_text_mainActivity">Save time of taking medicine</string>
+    <string name="time_diff_hours_min">Elapsed time: <i>%1$d hours, %2$d minutes</i></string>
+    <string name="time_diff_days_hours_min">Elapsed time: <i>%3$d days, %1$d hours, %2$d minutes</i></string>
+    <string name="error">Error</string>
+
+    <string name="press_button_save_time">Click the button in the lower right corner</string>
+    <string name="tabl_active_ingredient">Active ingredient amount (mg)</string>
+    <string name="susp_treatment_duration">"Duration of treatment "</string>
+    <string name="susp_total_medicine_amount">Total amount of the medicine</string>
+    <string name="susp_doses_per_day">Doses per day</string>
+    <string name="susp_active_ingredient_single_dose">Active ingredient (maximum single dose)</string>
+    <string name="susp_active_ingredient_daily_dose">Active ingredient (maximum daily dose)</string>
+    <string name="susp_active_ingredient_in_medicine">Active ingredient content (mg) / Amount of suspension (ml)</string>
+    <string name="nurofen">" "</string>
+    <string name="nurofen_forte">" "</string>
+    <string name="efferalgan">" "</string>
+    <string name="ibufen">" "</string>
+    <string name="ibufen_forte">" "</string>
+    <string name="bofen">" "</string>
+    <string name="panadol">" "</string>
+    <string name="piaron">" "</string>
+    <string name="nav_child">Antipyretic syrups</string>
+    <string name="nav_suspension">Oral Suspension</string>
+    <string name="nav_tablets">Tablets</string>
+    <string name="nav_tablets_by_weight">Tablets by weight</string>
+
+    <string name="active_ingredient_max_dose">Maximum dose of the main active ingredient</string>
+    <string-array name="dose">
+        <item>Daily dose</item>
+        <item>Single dose</item>
+    </string-array>
+    <string name="medicine_toString">%1$s, %2$s mg/%3$s ml</string>
+
+
+    <string-array name="units">
+        <item>mg</item>
+        <item>g</item>
+    </string-array>
+    <string-array name="unitsKgLbs">
+        <item>kg</item>
+        <item>lbs</item>
+    </string-array>
+    <string name="times">" "</string>
+    <string name="press_back_to_exit">Press back again to exit</string>
+    <string name="instruction">Instructions</string>
+    <string name="preference_file_key" translatable="false">org.testresult.drugdose.preferences</string>
+
+<!--    <string name="json_file">medicine_list_en.json</string>-->
+    <string name="text_field_error">Please fill in the field</string>
+    <string name="disclaimer">Disclaimer</string>
+
+    <string name="disclaimer_text">
+        Medical Disclaimer
+        \n\nImportant: This application is for informational purposes only and should not be used as a substitute for professional medical advice or treatment. The calculations and information provided by this application are based on standard dosing guidelines and should not be used as the sole basis for medical decisions.
+        \n\nThe information provided by this application is not a guarantee of accuracy and completeness. Medication dosages and interactions can be complex and can vary depending on individual factors such as age, weight, medical conditions, and other medications being taken.
+        \n\nAlways consult with a licensed physician or other qualified healthcare professional before using any medication. This includes discussing the risks and benefits of any medication, as well as determining the appropriate dosage for your specific needs.
+        \n\nNever disregard professional medical advice or delay in seeking it because of something you have read on this application.
+        \n\nIf you have any questions or concerns about a medication, please contact your doctor or pharmacist immediately.
+        \n\nBy using this application, you agree to these terms and acknowledge that the responsibility for medical care rests with you and your healthcare providers.The developers of this application are not responsible for any misuse of the information provided.
+        \n\n
+    </string>
+
+
+</resources>
+
+
+    <!--<p><strong>Medical Disclaimer</strong><br /><br /><strong>Important: This application is for informational purposes only and should not be used as a substitute for professional medical advice or treatment. The calculations and information provided by this application are based on standard dosing guidelines and should not be used as the sole basis for medical decisions.</strong><br /><br />The information provided by this application is not a guarantee of accuracy and completeness. Medication dosages and interactions can be complex and can vary depending on individual factors such as age, weight, medical conditions, and other medications being taken.<br /><br />Always consult with a licensed physician or other qualified healthcare professional before using any medication. This includes discussing the risks and benefits of any medication, as well as determining the appropriate dosage for your specific needs.<br /><br />Never disregard professional medical advice or delay in seeking it because of something you have read on this application.<br /><br />If you have any questions or concerns about a medication, please contact your doctor or pharmacist immediately.<br /><br /><strong>By using this application, you agree to these terms and acknowledge that the responsibility for medical care rests with you and your healthcare providers.The developers of this application are not responsible for any misuse of the information provided.</strong></p>-->

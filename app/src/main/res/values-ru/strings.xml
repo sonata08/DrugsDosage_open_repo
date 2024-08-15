@@ -1,0 +1,135 @@
+<resources>
+    <string name="child_dosage">Жаропонижающие сиропы</string>
+    <string name="susp_dosage">Дозировка суспензий (сиропов)</string>
+    <string name="tabl_weight_dosage">Дозировка таблеток по весу</string>
+    <string name="tabl_dosage">Дозировка таблеток</string>
+
+    <string name="nav_child">Детские сиропы</string>
+    <string name="nav_suspension">Суспензии</string>
+    <string name="nav_tablets">Таблетки</string>
+    <string name="nav_tablets_by_weight">Таблетки по весу</string>
+
+    <!--  Child dosage activity  -->
+    <string name="chooseMedicine">Выберите лекарство:</string>
+    <string name="app_name">Дозировка лекарств</string>
+    <string name="child_weight">Укажите вес ребенка:</string>
+    <string name="hint_weight">Вес</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="enter_weight">"Укажите вес ребенка "</string>
+    <string name="single_dose">Разовая доза:</string>
+    <string name="ml">мл</string>
+    <string name="active_ingredient">Действующее вещество:</string>
+    <string name="doses_per_day">Количество приемов в сутки:</string>
+    <string name="min_interval_between_doses">Минимальный интервал между приемами:</string>
+    <string name="max_doses_per_day">Максимальная суточная доза для ребенка:</string>
+    <string name="hours">часа(ов)</string>
+
+    <!--  info of medicine  -->
+    <string name="info_nurofen_ibufen">Препарат применяют детям в возрасте от 3 месяцев до 12 лет с массой тела не менее 5 кг</string>
+    <string name="info_nurofen_forte">Препарат применяют детям в возрасте от 6 месяцев, масса тела которых не менее 8 кг, до 12 лет</string>
+    <string name="info_ibufen_forte">Препарат не применяют детям младше 6 месяцев с массой тела менее 8 кг</string>
+    <string name="info_bofen">Препарат применять детям в возрасте от 3 месяцев (с массой тела не менее 5 кг) до 12 лет</string>
+    <string name="info_panadol">Не использовать Панадол бэби детям в возрасте до 3 месяцев. Рекомендуется применять детям в возрасте от 3 месяцев до 12 лет</string>
+    <string name="info_efferalgan">Препарат применять детям с массой тела от 4 до 32 кг (от 1 месяца до 12 лет)</string>
+    <string name="info_paracetamol">Препарат противопоказан детям в возрасте до 6 месяцев. Данная лекарственная форма применяется детям в возрасте от 6 месяцев до 12 лет</string>
+    <string name="info_piaron">Предназначен для лечения детей в возрасте от 2 месяцев до 12 лет. Масса тела ребенка должна быть более 4 кг</string>
+
+    <!--  strings from array of MedicineOld  -->
+    <string name="paracetamol">Парацетамол</string>
+    <string name="ibuprofen">Ибупрофен</string>
+    <string name="nurofen">Нурофен</string>
+    <string name="nurofen_forte">Нурофен Форте</string>
+    <string name="efferalgan">Эффералган для детей</string>
+    <string name="ibufen">Ибуфен</string>
+    <string name="ibufen_forte">Ибуфен Форте</string>
+    <string name="bofen">Бофен</string>
+    <string name="panadol">Панадол беби</string>
+    <string name="piaron">Пиарон</string>
+
+    <!--  suspension activity  -->
+    <string name="susp_active_ingredient_in_medicine">Количество основного действующего вещества (мг) / Количество суспензии (мл)</string>
+    <string name="susp_set_child_weight">Вес (кг)</string>
+    <string name="susp_active_ingredient_daily_dose">Максимальная суточная доза основного действующего вещества (мг/кг)</string>
+    <string name="susp_active_ingredient_single_dose">Максимальная разовая доза основного действующего вещества (мг/кг)</string>
+    <string name="susp_doses_per_day">Количество приемов в сутки</string>
+    <string name="susp_treatment_duration">Длительность лечения</string>
+    <string name="susp_total_medicine_amount">Количество препарата для курса лечения</string>
+    <string name="mg">мг</string>
+    <string name="kg">кг</string>
+    <string name="mg_kg">мг/кг</string>
+    <string name="times">раз(а)</string>
+    <string name="days">дней</string>
+    <string name="or">или</string>
+
+    <string name="active_ingredient_max_dose">Максимальная доза основного действующего вещества (мг/кг)</string>
+    <string-array name="dose">
+        <item>Суточная доза</item>
+        <item>Разовая доза</item>
+    </string-array>
+    <string name="medicine_toString">%1$s, %2$s мг/%3$s мл</string>
+
+    <!-- tablets -->
+    <string name="tabl_active_ingredient">Количество основного действующего вещества (мг)</string>
+    <string name="tablets">таблетки</string>
+    <string name="tabl_dosage_doctor">Доза, которую назначил доктор</string>
+    <string name="tabl_dosage_available">Дозировка имеющихся таблеток</string>
+
+    <!--  'Contact us' page  -->
+    <string name="name">Имя</string>
+    <string name="email">Email</string>
+    <string name="message_subject">Тема сообщения</string>
+    <string name="message">Сообщение</string>
+    <string name="send_message">Отправить сообщение</string>
+    <string name="empty_email">Укажите емейл</string>
+    <string name="empty_message">Напишите ваше сообщение</string>
+    <string name="email_us">Написать нам</string>
+    <string name="share">Поделиться</string>
+    <string name="rate">Оценить</string>
+    <string name="share_app">Поделиться приложением \"Дозировка лекарств\"</string>
+    <string name="cant_share">Не удалось найти программу, чтоб поделиться приложением</string>
+    <string name="cant_send_email">Не удалось найти программу для отправки почты</string>
+    <string name="contact_message">Будем рады Вашим отзывам и предложениям!</string>
+
+    <string name="timer">Таймер</string>
+    <string name="delete_all">Удалить всё</string>
+    <string name="delete">Удалить время</string>
+    <string name="add_time">Добавить текущее время</string>
+    <string name="time_diff_text_mainActivity">Сохранить время приема лекарств</string>
+    <string name="time_diff_hours_min">"Прошло <i>часов: %1$d, минут: %2$d"</i></string>
+    <string name="time_diff_days_hours_min">Прошло <i>дней: %3$d, часов: %1$d, минут: %2$d</i></string>
+    <string name="error">Произошла ошибка</string>
+
+    <string-array name="units">
+        <item>мг</item>
+        <item>г</item>
+    </string-array>
+    <string name="g">г</string>
+
+    <string name="wrong_email">Скорей всего здесь опечатка. Перепроверьте емейл.</string>
+    <string name="save_time">Вы можете сохранить время приема лекарства, чтоб засечь время до следующей дозы</string>
+    <string name="press_button_save_time">Нажмите кнопку в правом нижнем углу</string>
+
+<!--    <string-array name="unitsKgLbs">-->
+<!--        <item>kg</item>-->
+<!--        <item>lbs</item>-->
+<!--    </string-array>-->
+    <string name="press_back_to_exit">Нажмите еще раз для выхода</string>
+<!--    <string name="preference_file_key" translatable="false">org.testresult.drugdose.preferences</string>-->
+    <string name="instruction">Инструкция</string>
+
+<!--    <string name="json_file">medicine_list_ru.json</string>-->
+    <string name="text_field_error">Заполните поле</string>
+    <string name="disclaimer">Дисклеймер</string>
+
+    <string name="disclaimer_text">
+    Отказ от ответственности
+    \n\nВажно: Это приложение предназначено только для информационных целей и не должно использоваться как замена профессиональной медицинской консультации или лечения. Расчеты и информация, предоставленные настоящим приложением, основаны на стандартных рекомендациях по дозировке и не должны использоваться как единственная основа для медицинских решений.
+    \n\nИнформация, предоставленная настоящим приложением, не гарантирует точности и полноты. Дозировка и взаимодействие лекарства могут быть сложными и могут отличаться в зависимости от индивидуальных факторов, таких как возраст, вес, состояние здоровья и другие принятые лекарства.
+    \n\nПеред использованием любого лекарства всегда консультируйтесь с врачом или другим квалифицированным медицинским работником. Это включает обсуждение рисков и преимуществ любого лекарства, а также определение соответствующей дозировки для ваших конкретных потребностей.
+    \n\nНикогда не игнорируйте профессиональные медицинские советы и не откладывайте их из-за того, что вы прочитали в этом приложении.
+    \n\nЕсли у вас есть какие-либо вопросы или беспокойство по поводу лекарств, немедленно обратитесь к своему врачу.
+    \n\nИспользуя это приложение, вы соглашаетесь с этими условиями и признаете, что ответственность за медицинскую помощь лежит на вас и ваших врачах. Разработчики этой программы не несут ответственности за использование предоставленной информации.
+    \n\n
+    </string>
+
+</resources>

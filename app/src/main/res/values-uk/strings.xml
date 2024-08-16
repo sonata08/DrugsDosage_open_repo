@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Дозування ліків</string>
+    <string name="child_dosage">Жарознижуючі сиропи</string>
+    <string name="susp_dosage">Дозування суспензій (сиропів)</string>
+    <string name="chooseMedicine">Виберіть ліки:</string>
+    <string name="child_weight">Вкажіть вагу дитини:</string>
+    <string name="hint_weight">Вага</string>
+    <string name="calculate">Розрахувати</string>
+    <string name="enter_weight">Вкажіть вагу дитини</string>
+    <string name="single_dose">Разова доза:</string>
+    <string name="ml">мл</string>
+    <string name="doses_per_day">Кількість прийомів на добу:</string>
+    <string name="min_interval_between_doses">Мінімальний інтервал між прийомами:</string>
+    <string name="tabl_weight_dosage">Дозування таблеток залежно від маси тіла</string>
+    <string name="tabl_dosage">Дозування таблеток</string>
+    <string name="nurofen">Нурофен</string>
+    <string name="ibuprofen">Ібупрофен</string>
+    <string name="nurofen_forte">Нурофен Форте</string>
+    <string name="paracetamol">Парацетамол</string>
+    <string name="efferalgan">Ефералган</string>
+    <string name="ibufen">Ібуфен</string>
+    <string name="ibufen_forte">Ібуфен Форте</string>
+    <string name="bofen">Бофен</string>
+    <string name="panadol">Панадол бебі</string>
+    <string name="piaron">Піарон</string>
+    <string name="max_doses_per_day">Максимальна добова доза для дитини:</string>
+    <string name="susp_active_ingredient_in_medicine">Кількість основної діючої речовини (мг) / Кількість суспензії (мл)</string>
+    <string name="susp_set_child_weight">Вага (кг)</string>
+    <string name="susp_active_ingredient_daily_dose">Максимальна добова доза основної діючої речовини (мг/кг)</string>
+    <string name="susp_active_ingredient_single_dose">Максимальна разова доза основної діючої речовини (мг/кг)</string>
+    <string name="susp_doses_per_day">Кількість прийомів на добу</string>
+    <string name="susp_treatment_duration">Тривалість лікування</string>
+    <string name="susp_total_medicine_amount">Кількість препарату для курсу лікування</string>
+    <string name="mg">мг</string>
+    <string name="kg">кг</string>
+    <string name="mg_kg">мг/кг</string>
+    <string name="times">рази(ів)</string>
+    <string name="days">днів</string>
+    <string name="or">або</string>
+    <string name="active_ingredient">Діюча речовина:</string>
+    <string name="tabl_active_ingredient">Кількість основної діючої речовини (мг)</string>
+    <string name="tablets">таблетки</string>
+    <string name="tabl_dosage_doctor">Доза, яку призначив лікар</string>
+    <string name="tabl_dosage_available">Дозування наявних таблеток</string>
+    <string name="hours">годин(и)</string>
+
+    <string name="info_nurofen_ibufen">Препарат застосовують дітям віком від 3 місяців до 12 років з масою тіла не менше 5 кг.</string>
+    <string name="info_nurofen_forte">Препарат застосовують дітям віком від 6 місяців, маса тіла яких не менше 8 кг, до 12 років.</string>
+    <string name="info_ibufen_forte">Препарат не застосовують дітям молодшим 6 місяців з масою тіла менше 8 кг.</string>
+    <string name="info_bofen">Препарат застосовувати дітям віком від 3 місяців (з масою тіла не менше 5 кг) до 12 років</string>
+    <string name="info_panadol">Не застосовувати препарат Панадол бебі дітям віком до 3 місяців. Рекомендується застосовувати дітям віком від 3 місяців до 12 років</string>
+    <string name="info_efferalgan">Препарат застосовувати дітям з масою тіла від 4 до 32 кг (від 1 місяця до 12 років)</string>
+    <string name="info_paracetamol">"Препарат протипоказаний для застосування дітям віком до 6 місяців. Дана лікарська форма застосовується дітям віком від 6 місяців до 12 років.  "</string>
+    <string name="info_piaron">Призначений для лікування дітей віком від 2 місяців до 12 років. Маса тіла дитини має бути більше 4 кг.</string>
+    <string name="name">Ім\'я</string>
+    <string name="message_subject">Тема повідомлення</string>
+    <string name="message">Повідомлення</string>
+    <string name="send_message">Відправити повідомлення</string>
+    <string name="email">Email</string>
+    <string name="empty_email">Вкажіть імейл</string>
+    <string name="empty_message">Напишіть ваше повідомлення</string>
+    <string name="g">г</string>
+    <string name="wrong_email">"Швидше за все тут помилка. Перевірте написання email. "</string>
+    <string name="share">"Поділитися "</string>
+    <string name="rate">Оцінити</string>
+    <string name="email_us">Написати нам</string>
+    <string name="share_app">Поділитися додатком \"Дозування ліків\"</string>
+    <string name="contact_message">"Будемо раді Вашим відгукам і пропозиціям! "</string>
+
+    <string name="timer">Таймер</string>
+    <string name="delete_all">Видалити все</string>
+    <string name="delete">Видалити час</string>
+    <string name="add_time">Додати поточний час</string>
+    <string name="time_diff_text_mainActivity">Зберегти час прийому ліків</string>
+    <string name="time_diff_hours_min">Пройшло <i>годин: %1$d, хвилин: %2$d</i></string>
+    <string name="time_diff_days_hours_min">Пройшло <i>днів: %3$d, годин: %1$d, хвилин: %2$d</i></string>
+    <string name="error">Сталася помилка</string>
+
+    <string name="cant_share">"Не вдалося знайти програму, щоб поділитися додатком "</string>
+    <string name="cant_send_email">Не вдалося знайти програму для відправки email</string>
+    <string name="save_time">Ви можете зберегти час прийому ліків, щоб засікти час до наступної дози</string>
+    <string name="press_button_save_time">Натисніть кнопку в правому нижньому кутку</string>
+    <string name="nav_child">Дитячі сиропи</string>
+    <string name="nav_suspension">Суспензії</string>
+    <string name="nav_tablets">Таблетки</string>
+    <string name="nav_tablets_by_weight">Таблетки за вагою</string>
+
+    <string name="active_ingredient_max_dose">Максимальна доза основної діючої речовини (мг/кг)</string>
+    <string-array name="dose">
+        <item>Добова доза</item>
+        <item>Разова доза</item>
+    </string-array>
+    <string name="medicine_toString">%1$s, %2$s мг/%3$s мл</string>
+
+    <string-array name="units">
+        <item>мг</item>
+        <item>г</item>
+    </string-array>
+    <string name="press_back_to_exit">Натисніть ще раз для виходу</string>
+    <string name="instruction">Інструкція</string>
+
+<!--    <string name="json_file">medicine_list_uk.json</string>-->
+    <string name="text_field_error">Заповніть поле</string>
+    <string name="disclaimer">Дисклеймер</string>
+
+    <string name="disclaimer_text">
+        Відмова від відповідальності
+        \n\nВажливо: Цей додаток призначений лише для інформаційних цілей і не повинен використовуватися як заміна професійної медичної консультації або лікування. Розрахунки та інформація, надані цим додатком, базуються на стандартних рекомендаціях щодо дозування і не повинні використовуватися як єдина основа для медичних рішень.
+        \n\nІнформація, надана цим додатком, не гарантує точності та повноти. Дозування та взаємодія ліків можуть бути складними і можуть відрізнятися залежно від індивідуальних факторів, таких як вік, вага, стан здоров\'я та інші прийняті ліки.
+        \n\nЗавжди консультуйтеся з лікарем або іншим кваліфікованим медичним працівником перед використанням будь-яких ліків. Це включає обговорення ризиків і переваг будь-яких ліків, а також визначення відповідного дозування для ваших конкретних потреб.
+        \n\nНіколи не ігноруйте професійні медичні поради та не відкладайте їх отримання через те, що ви прочитали в цьому додатку.
+        \n\nЯкщо у вас є будь-які питання або занепокоєння щодо ліків, негайно зверніться до свого лікаря.
+        \n\nКористуючись даним додатком, ви погоджуєтеся з цими умовами та визнаєте, що відповідальність за медичну допомогу лежить на вас і ваших лікарях. Розробники цієї програми не несуть відповідальності за будь-яке використання наданої інформації.
+        \n\n
+    </string>
+
+
+</resources>

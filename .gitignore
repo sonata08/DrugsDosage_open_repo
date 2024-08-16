@@ -1,0 +1,33 @@
+*.iml
+.gradle
+ /local.properties
+ /.idea/caches
+ /.idea/shelf
+ /.idea/libraries
+ /.idea/modules.xml
+ /.idea/workspace.xml
+ /.idea/navEditor.xml
+ /.idea/assetWizardSettings.xml
+ /.idea/deploymentTargetDropDown.xml
+ /.idea/androidTestResultsUserPreferences.xml
+ /.idea/inspectionProfiles
+ /app/google-services.json
+ keystore.properties
+ .DS_Store
+ /build
+ /captures
+ .externalNativeBuild
+ .cxx
+local.properties
+
+/.idea/.gitignore
+/.idea/.name
+/.idea/appInsightsSettings.xml
+/.idea/kotlinc.xml
+/.idea/misc.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/compiler.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/gradle.xml
+/.idea/migrations.xml
+/.idea/other.xml
